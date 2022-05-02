@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Mercantil do Brasil
 - 🌱 I’m currently learning C# Java Python JS Bash Linux SQL
 - 💬 Ask me about Hardware Specs
-- ⚡ Fun fact: Maibe cows and pigs still dont know how to fly
+- ⚡ Fun fact: Maybe cows and pigs still dont know how to fly
 
