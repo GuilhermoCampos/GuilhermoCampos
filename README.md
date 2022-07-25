@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🔭 I’m currently working on Mercantil do Brasil
-- 🌱 I’m currently learning C#, SQL
+- 🌱 I’m currently learning C#, SQL, WEB, AI
 - 💬 Ask me about Hardware Specs
 - ⚡ Fun fact: Maybe cows and pigs still dont know how to fly
 
